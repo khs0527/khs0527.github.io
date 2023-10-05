@@ -5,6 +5,7 @@ categories:
   - python
 tags:
   - 파이썬독스트링
+pin: true
 ---
 
 ## 일반적인 Python Docstring 형식 소개
