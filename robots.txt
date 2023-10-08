@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://khs0527.github.io/sitemap.xml
+
+#DaumWebMasterTool:69cd58fb5ad230ce55266a6d3335bf31865b0100eac1ec844319058d0a289c2b:K5NHWMt5JRJpVGszrCNoYA==
